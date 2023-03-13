@@ -96,3 +96,56 @@
 
 
 
+// Q no 11
+
+
+
+
+
+
+
+
+
+
+// // Q no 12
+
+
+// var num = 35.36;
+// var numStr = num.toString().replace(".","")
+// console.log(numStr);
+
+
+
+// // Q no 13
+
+
+
+
+
+
+// // Q no 14
+
+
+
+
+
+// // Q no 15
+
+
+
+
+
+
+// // Q no 16
+
+
+// var uni = "University of Karachi";
+
+// for(var i = 0; i < uni.length; i++){
+// console.log(uni[i])
+// }
+
+
+
+
+
